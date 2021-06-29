@@ -1,0 +1,3 @@
+### Maven
+life cycle of maven
+validation--->clean---->complie--->test--->package-->depoly--->install
